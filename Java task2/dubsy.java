@@ -13,7 +13,7 @@ Positive number
  public class dubsy{
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-      System.out.print("Enter the number: ");
+      System.out.print("Enter the number is: ");
       double n = s.nextDouble();
       if(n==0){
         System.out.print("Zero");
