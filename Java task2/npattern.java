@@ -8,7 +8,7 @@ The pattern like :
 
 import java.util.Scanner;
 public class npattern{
-    public static void main(String[] args) {
+      public static void main(String[] args) {
       Scanner s= new Scanner(System.in);
       int currentNumber = 1;
       System.out.print("Enter the rows: ");
