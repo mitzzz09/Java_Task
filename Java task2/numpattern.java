@@ -22,9 +22,9 @@ class numpattern{
         for(int i=1; i<=rows; i++){
             System.out.print("");
             for(int j=1; j<=i; j++){
-                System.out.println(j);
+                System.out.print(j);
             }
-            //System.out.print("");
+            System.out.println("");
         }
         s.close();
     }
